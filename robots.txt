@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://boggedwasued.github.io/sitemap.xml
